@@ -13,7 +13,7 @@ class WW
 }
 
 class A
-{  
+{  dssadsdsadsad dsdad 
 
     function AA($attr1)
     {
@@ -28,3 +28,5 @@ $onet = new A;
 $onet->AA('dasdad');
 
 ?>
+
+12121212
